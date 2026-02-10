@@ -1,0 +1,50 @@
+html {
+    font-family: sans-serif;
+    background: gray;
+}
+
+h1 {
+    margin: 0em 2em 0em 1em;
+    font-size: 18px;
+    color: blue;
+    font-family: cursive;
+}
+
+p, li {
+    letter-spacing: 1px;
+    font-size: 14px;
+    margin-right: 2em;
+}
+
+.container {
+    display: flex
+}
+
+body {
+    margin: 1em auto;
+    width: 40%;
+    padding: 2em 5em 7em 5em;
+    border: 2px solid black;
+    background: white;
+}
+
+img {
+  width: 100%;	
+  display: block;
+  margin: 0% auto; 
+}
+
+a {
+  color: purple;
+}
+
+a:hover {
+  background-color: cyan;
+}
+
+.item {
+    padding: 0em 1em 0em;
+    margin: 2.5em auto;
+    min-width: 10em;
+}
+	    
