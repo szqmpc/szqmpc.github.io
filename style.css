@@ -4,16 +4,17 @@ html {
 }
 
 h1 {
-    margin: 0em 2em 0em 1em;
     font-size: 18px;
-    color: blue;
-    font-family: cursive;
+    color: navy;
+    margin-left: 1em;
 }
 
 p, li {
     letter-spacing: 1px;
-    font-size: 14px;
-    margin-right: 2em;
+    font-size: 12px;
+    background-color: aquamarine;
+    border: 1px solid darkgreen;
+    padding: 1em 4em 1em 4em;  
 }
 
 .container {
@@ -22,8 +23,8 @@ p, li {
 
 body {
     margin: 1em auto;
-    width: 40%;
-    padding: 2em 5em 7em 5em;
+    width: 47%;
+    padding: 2em 8em 7em 8em;
     border: 2px solid black;
     background: white;
 }
