@@ -1,6 +1,6 @@
 html {
     font-family: sans-serif;
-    background: gray;
+    background: #dafac5;
 }
 
 h1 {
@@ -19,8 +19,8 @@ p, li {
 
 body {
     max-width: 80ch;
-    padding: 0.5em;
-    background: #dafac5;
+    
+    
 }
 
 img {
