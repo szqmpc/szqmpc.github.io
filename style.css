@@ -1,11 +1,11 @@
 html {
-    font-family: sans-serif;
-    background: white;
+    font-family: "Verdana", sans-serif;
+    background: midnightblue;
 }
 
 h1 {
     font-size: 1.3rem;
-    color: crimson;
+    color: lime;
     padding-bottom: 0.5em;
     margin: 0em;
 }
@@ -24,7 +24,7 @@ p, li {
 
 body {
     max-width: 80ch;
-    color: black;
+    color: honeydew;
     
     padding: 0em;
     
@@ -37,7 +37,7 @@ img {
 }
 
 a {
-  color: deeppink;
+  color: aquamarine
 }
 
 a:hover {
