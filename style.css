@@ -19,9 +19,9 @@ p, li {
 
 body {
     max-width: 80ch;
-    color: white;
+    color: honeydew;
     background: darkslateblue;
-    padding: 0.5em;
+    padding: 1em;
     border: 1px solid black;
 }
 
