@@ -1,12 +1,12 @@
 html {
     font-family: "Verdana", sans-serif;
-    background: #04092e;
+    background: #01041f;
 }
 
 h1 {
-    font-size: 1.5rem;
-    color: #faa264;
-    padding-bottom: 0.5em;
+    font-size: 1.7rem;
+    color: #fcc96f;
+    
     margin: 0em;
 }
 
@@ -17,7 +17,7 @@ p, li {
 
 .container {
     display: flex;   
-    max-width: 80ch;
+    max-width: 120ch;
 }
 
 body {
@@ -39,6 +39,13 @@ a {
 
 a:hover {
   background-color: cyan;
+}
+
+pre {
+    font-family: "Lucida Console", monospace;
+    font-size: 1rem;
+    padding: 1em;
+    background: teal;
 }
 
 .item {
