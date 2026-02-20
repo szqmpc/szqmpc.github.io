@@ -5,12 +5,12 @@ html {
 
 p, li {
     letter-spacing: 1px;
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 .container {
     display: flex;   
-    max-width: 80ch;
+    max-width: 65ch;
 }
 
 body {
@@ -26,21 +26,17 @@ img {
 }
 
 a {
-  color: aquamarine;
-}
-
-a:hover {
-  background-color: blue;
+  color: crimson;
 }
 
 code {
     font-family: "Lucida Console", monospace;
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 pre {
     font-family: "Lucida Console", monospace;
-    font-size: 1rem;
+    font-size: 0.8rem;
     padding: 1em;
     background: teal;
 }
