@@ -5,7 +5,7 @@ html {
 
 h1 {
     font-size: 1rem;
-    background-color: pink;
+    background-color: aquamarine;
     padding: 1em;
 }
 
@@ -16,7 +16,7 @@ p, li {
 
 .container {
     display: flex;   
-    background-color: aquamarine;
+    background-color: pink;
 }
     
 
@@ -33,7 +33,7 @@ img {
 }
 
 a {
-  color: crimson;
+  color: blue;
 }
 
 code {
