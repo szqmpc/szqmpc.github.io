@@ -3,6 +3,12 @@ html {
     
 }
 
+h1 {
+    font-size: 1rem;
+    background-color: pink;
+    padding: 1em;
+}
+
 p, li {
     letter-spacing: 1px;
     font-size: 0.8rem;
@@ -10,8 +16,9 @@ p, li {
 
 .container {
     display: flex;   
-    max-width: 65ch;
+    background-color: aquamarine;
 }
+    
 
 body {
     
@@ -38,11 +45,13 @@ pre {
     font-family: "Lucida Console", monospace;
     font-size: 0.8rem;
     padding: 1em;
-    background: teal;
+    background-color: teal;
 }
 
 .item {
-   
+    padding: 1em 1em 0em 1em;
+    max-width: 65ch;
+}
     
 }	    
 
