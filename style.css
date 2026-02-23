@@ -5,7 +5,7 @@ html {
 
 h1 {
     font-size: 1rem;
-    
+    background-color: lightblue;
     color: navy;
     padding: 1em;
     margin-bottom: 0.5em;
@@ -19,7 +19,7 @@ p, li {
 
 .container {
     display: flex;   
-    
+    background-color: pink;
 }
     
 
