@@ -1,11 +1,11 @@
 html {
     font-family: "Verdana", sans-serif;
-    background-color: lightyellow;
+    background-color: white;
 }
 
 h1 {
     font-size: 1rem;
-    background-color: aquamarine;
+    
     color: navy;
     padding: 1em;
     margin-bottom: 0.5em;
@@ -19,7 +19,7 @@ p, li {
 
 .container {
     display: flex;   
-    background-color: pink;
+    
 }
     
 
