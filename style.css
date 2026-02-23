@@ -1,17 +1,20 @@
 html {
     font-family: "Verdana", sans-serif;
-    
+    background-color: lightyellow;
 }
 
 h1 {
     font-size: 1rem;
     background-color: aquamarine;
+    color: navy;
     padding: 1em;
+    margin-bottom: 0.5em;
 }
 
 p, li {
     letter-spacing: 1px;
     font-size: 0.8rem;
+    color: black;
 }
 
 .container {
