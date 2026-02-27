@@ -5,7 +5,7 @@ html {
 
 h1 {
     font-size: 1rem;
-    background-color: lightblue;
+    background-color: aquamarine;
     color: navy;
     padding: 1em;
     margin-bottom: 0.5em;
@@ -17,10 +17,20 @@ p, li {
     color: black;
 }
 
-.container {
-    display: flex;   
-    background-color: pink;
+.m3 {
+    display: grid;
+    
 }
+
+.m2 {
+    display: flex;   
+    background-color: lemonchiffon;
+}
+
+.m1 {
+    padding: 1em 1em 0em 1em;
+    max-width: 65ch;
+}    	    
     
 
 body {
@@ -51,14 +61,10 @@ pre {
     background-color: teal;
 }
 
-.item {
-    padding: 1em 1em 0em 1em;
-    max-width: 65ch;
-}    	    
 
 @media (20em <= width <= 40em) {
   .container {
     margin: 0em;    
-    
+    width: fit-content; 
   }
 }
