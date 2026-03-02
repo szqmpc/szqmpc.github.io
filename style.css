@@ -14,7 +14,7 @@ h1 {
 p, li {
     letter-spacing: 1px;
     font-size: 0.8rem;
-    color: honeydew;
+    color: white;
 }
 
 .m3 {
@@ -24,7 +24,7 @@ p, li {
 
 .m2 {
     display: flex;   
-    background-color: #454545;
+    background-color: #3a3a3b;
 }
 
 .m1 {
